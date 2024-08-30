@@ -1,5 +1,5 @@
 # Florine's Fallout 4 VR
-v1.2.0 • [changelog](CHANGELOG.md) • [how to update](CHANGELOG.md)
+v1.3.0 • [changelog](CHANGELOG.md) • [how to update](CHANGELOG.md)
 
 > A thorough, beginner-friendly guide for a stable, vanilla-ish experience.
 
@@ -636,10 +636,10 @@ These mods fix bugs, either in the base game or in other mods.
    Re-implements parts of FO4AU that did not work in VR. Some parts of FO4AU are still broken even with this mod.
    * **Requires:** FO4AU _and_ FO4NW
    * **Variant:** "No wild edits"
-5. **[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359)** (v1.28.6) <sub>![required]</sub>  
+5. **[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359)** (v1.28.6) <sub>![required]</sub>
    Fixes engine bugs and adds a crash logger.
-6. **[Buffout 4 NG with PDB support](https://www.nexusmods.com/fallout4/mods/64880)** (v1.31.1) <sub>![required]</sub>  
-   Same as above, but for VR.
+6. **[Buffout 4 NG with PDB support](https://www.nexusmods.com/fallout4/mods/64880)** (v1.31.1) <sub>![required]</sub>
+   Similar to above but for VR, and also enables achievements even when using mods.
    * **Note:** You can ignore the listed dependencies.
 7. **[Multiple Floors Sandboxing](https://www.nexusmods.com/fallout4/mods/15608)** (v1.0) <sub>![recommended]</sub>  
    In locations with multiple storeys, NPCs walk only on the ground storey.

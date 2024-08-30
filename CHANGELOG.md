@@ -1,4 +1,18 @@
 # Changelog
+## [Unreleased] -- Unreleased
+(TODO: Intro)
+
+### How to upgrade
+(TODO)
+
+### Added
+* Mentioned the Steam library setup tool as a means to achieve a different Steam library configuration. ([#26](https://github.com/FWDekker/fo4vr-modlist/pull/26))
+* Added [Daan Vissers](https://github.com/daanvissers) to the acknowledgements.
+
+### Changed
+* Clarified some minor unclarities. ([https://github.com/FWDekker/fo4vr-modlist/pull/26](#26))
+
+
 ## [1.3.0] -- 2024-07-28
 This version adds instructions on using the MCM, and fixes a potential issue with saves not being synced by Steam.
 
@@ -27,6 +41,7 @@ Follow these steps to update your mod list from v1.2.0 to v1.3.0 of my guide.
 ### Added
 * Added [Mod Configuration Menu (MCM) installation and usage instructions](https://github.com/FWDekker/fo4vr-modlist/tree/v1.3.0#ui).
 * Added instructions on how to download non-VR FO4 DLC without downloading the full game. ([#22](https://github.com/FWDekker/fo4vr-modlist/issues/22))
+* Added [Nathaniel Hartlen](https://github.com/crazysmile11012) to the acknowledgements.
 
 ### Changed
 * Removed recommendation to use profile-specific saves in MO2.
@@ -73,6 +88,9 @@ This version contains only one minor fix, but nothing significant for existing u
 
 ### How to upgrade
 No steps are required to update your mod list from v1.1.2 to v1.1.3 of my guide.
+
+### Added
+* Added [GeekOffTheStreet](https://github.com/GeekOffTheStreet) to the acknowledgements.
 
 ### Fixed
 * Fixed the directory to install downgraded DLC into from `[fo4_dir]` to `[fo4vr_dir]`. ([#16](https://github.com/FWDekker/fo4vr-modlist/pull/16))
