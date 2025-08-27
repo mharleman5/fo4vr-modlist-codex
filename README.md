@@ -36,8 +36,8 @@ Still, there's a few limitations which you should keep in mind.
 If you're experiencing in-game issues, check the [issues and solutions](#issues-and-solutions).
 
 If you don't understand something, experience in-game issues, have suggestions, or just need some help,
-[check out the Discussions page](https://github.com/FWDekker/fo4vr-modlist/discussions) or
-[open an issue](https://github.com/FWDekker/fo4vr-modlist/issues).
+[check out the Discussions page](https://github.com/fwdekker/fo4vr-modlist/discussions) or
+[open an issue](https://github.com/fwdekker/fo4vr-modlist/issues).
 
 > [!TIP]
 > Use the hamburger menu (≡) in the top-right corner to easily navigate between sections.
@@ -1237,8 +1237,8 @@ That's it!
 I hope this guide was useful for you :-)
 
 If you don't understand something, experience in-game issues, have suggestions, or just need some help,
-[check out the Discussions page](https://github.com/FWDekker/fo4vr-modlist/discussions) or
-[open an issue](https://github.com/FWDekker/fo4vr-modlist/issues).
+[check out the Discussions page](https://github.com/fwdekker/fo4vr-modlist/discussions) or
+[open an issue](https://github.com/fwdekker/fo4vr-modlist/issues).
 
 
 # 7 Acknowledgements<a name="acknowledgements"></a> <small><sup>[top ▲](#toc)</sup></small>
@@ -1246,19 +1246,19 @@ I want to thank everyone who contributed something to my FO4VR guide, no matter 
 
 In chronological order of contribution:
 * Thanks to [KindaWorks](https://github.com/KindaWorks) for [figuring out that the next-gen update for non-VR FO4 means
-  you now have to downgrade Automatron](https://github.com/FWDekker/fo4vr-modlist/pull/14)!
+  you now have to downgrade Automatron](https://github.com/fwdekker/fo4vr-modlist/pull/14)!
 * Thanks to [GeekOffTheStreet](https://github.com/GeekOffTheStreet) for [reporting an incorrect directory in the DLC
-  instructions](https://github.com/FWDekker/fo4vr-modlist/issues/16)!
+  instructions](https://github.com/fwdekker/fo4vr-modlist/issues/16)!
 * Thanks to [Nathaniel Hartlen](https://github.com/crazysmile11012) for [suggesting adding instructions on how to 
-  download non-VR DLC without installing the full game](https://github.com/FWDekker/fo4vr-modlist/issues/22)!
+  download non-VR DLC without installing the full game](https://github.com/fwdekker/fo4vr-modlist/issues/22)!
 * Thanks to [Daan Vissers](https://github.com/daanvissers) for [mentioning the Steam library setup tool, clarifying
-  unclarities](https://github.com/FWDekker/fo4vr-modlist/pull/26) and [several other
-  suggestions](https://github.com/FWDekker/fo4vr-modlist/issues/25)!
+  unclarities](https://github.com/fwdekker/fo4vr-modlist/pull/26) and [several other
+  suggestions](https://github.com/fwdekker/fo4vr-modlist/issues/25)!
 * Thanks to [Jacobi](https://steamcommunity.com/profiles/76561199048585896) for [reporting an issue with the night skybox](https://steamcommunity.com/sharedfiles/filedetails/?id=3210296275&tscn=1753820200)!
 * Thanks to [dry3ss](https://www.reddit.com/user/dry3ss/) for [reporting the same issue with the night skybox](https://redd.it/1dp3ij2/), and sorry it took me more than a year to notice!
 
 If I should add, remove, or change anything here, just
-[open an issue](https://github.com/FWDekker/fo4vr-modlist/issues/new) or [email me](https://fwdekker.com/about/)!
+[open an issue](https://github.com/fwdekker/fo4vr-modlist/issues/new) or [email me](https://fwdekker.com/about/)!
 
 
   [required]:    https://img.shields.io/badge/required-red?style=flat-square "required"

@@ -8,11 +8,11 @@ Follow these steps to update your mod list from v1.3.0 to v1.3.1 of my guide.
 * Install the file "Dark Galaxy Milky Way 4k Skystars 4k" from the mod [Fallout 4 HD Overhaul 2k](https://www.nexusmods.com/fallout4/mods/65720).
 
 ### Added
-* Mentioned the Steam library setup tool as a means to achieve a different Steam library configuration. ([#26](https://github.com/FWDekker/fo4vr-modlist/pull/26))
+* Mentioned the Steam library setup tool as a means to achieve a different Steam library configuration. ([#26](https://github.com/fwdekker/fo4vr-modlist/pull/26))
 * Added [Daan Vissers](https://github.com/daanvissers), [Jacobi](https://steamcommunity.com/profiles/76561199048585896), and [dry3ss](https://www.reddit.com/user/dry3ss/) to the acknowledgements.
 
 ### Changed
-* Clarified some minor unclarities. ([https://github.com/FWDekker/fo4vr-modlist/pull/26](#26))
+* Clarified some minor unclarities. ([https://github.com/fwdekker/fo4vr-modlist/pull/26](#26))
 
 ### Fixed
 * Under some circumstances, the night skybox would have a visible seam and missing textures in the lower band. This issue can be resolved by installing the optional file "Dark Galaxy Milky Way 4k Skystars 4k" from the mod [Fallout 4 HD Overhaul 2k](https://www.nexusmods.com/fallout4/mods/65720). Installing this file is now part of the guide. Thank you to [Jacobi](https://steamcommunity.com/profiles/76561199048585896) and [dry3ss](https://www.reddit.com/user/dry3ss/) for reporting the issue!
@@ -44,8 +44,8 @@ Follow these steps to update your mod list from v1.2.0 to v1.3.0 of my guide.
   8. Click "Close".
 
 ### Added
-* Added [Mod Configuration Menu (MCM) installation and usage instructions](https://github.com/FWDekker/fo4vr-modlist/tree/v1.3.0#ui).
-* Added instructions on how to download non-VR FO4 DLC without downloading the full game. ([#22](https://github.com/FWDekker/fo4vr-modlist/issues/22))
+* Added [Mod Configuration Menu (MCM) installation and usage instructions](https://github.com/fwdekker/fo4vr-modlist/tree/v1.3.0#ui).
+* Added instructions on how to download non-VR FO4 DLC without downloading the full game. ([#22](https://github.com/fwdekker/fo4vr-modlist/issues/22))
 * Added [Nathaniel Hartlen](https://github.com/crazysmile11012) to the acknowledgements.
 
 ### Changed
@@ -69,9 +69,9 @@ Follow these steps to update your mod list from v1.1.3 to v1.2.0 of my guide.
 
 
 ### Added
-* Added fix for making dev console more legible. ([#18](https://github.com/FWDekker/fo4vr-modlist/pull/18))
+* Added fix for making dev console more legible. ([#18](https://github.com/fwdekker/fo4vr-modlist/pull/18))
 * Added more extensive general troubleshooting tips.
-* Added guidance for adding mods not described in this guide. ([#6](https://github.com/FWDekker/fo4vr-modlist/pull/6)) ([#11](https://github.com/FWDekker/fo4vr-modlist/pull/11))
+* Added guidance for adding mods not described in this guide. ([#6](https://github.com/fwdekker/fo4vr-modlist/pull/6)) ([#11](https://github.com/fwdekker/fo4vr-modlist/pull/11))
 * Extended instructions on downgrading non-VR FO4's next-gen patch.
   Previously, the [Wasteland Workshop DLC](https://fallout.fandom.com/wiki/Wasteland_Workshop) was not downgraded.
   This downgrade seems mostly inconsequential, but was included for completeness.
@@ -98,7 +98,7 @@ No steps are required to update your mod list from v1.1.2 to v1.1.3 of my guide.
 * Added [GeekOffTheStreet](https://github.com/GeekOffTheStreet) to the acknowledgements.
 
 ### Fixed
-* Fixed the directory to install downgraded DLC into from `[fo4_dir]` to `[fo4vr_dir]`. ([#16](https://github.com/FWDekker/fo4vr-modlist/pull/16))
+* Fixed the directory to install downgraded DLC into from `[fo4_dir]` to `[fo4vr_dir]`. ([#16](https://github.com/fwdekker/fo4vr-modlist/pull/16))
 
 
 ## [1.1.2] -- 2024-05-01
@@ -108,9 +108,9 @@ This version contains a few fixes for new users, but nothing significant for exi
 No steps are required to update your mod list from v1.1.1 to v1.1.2 of my guide.
 
 ### Added
-* Added instructions for dealing with DLC incompatibilities due to the non-VR FO4 next-gen update. ([#14](https://github.com/FWDekker/fo4vr-modlist/pull/14))
+* Added instructions for dealing with DLC incompatibilities due to the non-VR FO4 next-gen update. ([#14](https://github.com/fwdekker/fo4vr-modlist/pull/14))
 * Added an acknowledgements section to the guide.
-* Added [KindaWorks](https://github.com/KindaWorks) to the acknowledgements. ([#14](https://github.com/FWDekker/fo4vr-modlist/pull/14))
+* Added [KindaWorks](https://github.com/KindaWorks) to the acknowledgements. ([#14](https://github.com/fwdekker/fo4vr-modlist/pull/14))
 
 ### Changed
 * Changed [Multiple Floors Sandboxing](https://www.nexusmods.com/fallout4/mods/15608) from _required_ to _recommended_.
@@ -141,7 +141,7 @@ Follow these steps to update your mod list from v1.1.0 to v1.1.1 of my guide.
 * Removed [Backpacks of the Commonwealth - Dirty Edit Patch](https://www.nexusmods.com/fallout4/mods/79705).
 
 ### Fixed
-* Corrected the version number of [Buffout 4 NG](https://www.nexusmods.com/fallout4/mods/64880) from v1.13.1 to v1.31.1. ([#12](https://github.com/FWDekker/fo4vr-modlist/issues/12))
+* Corrected the version number of [Buffout 4 NG](https://www.nexusmods.com/fallout4/mods/64880) from v1.13.1 to v1.31.1. ([#12](https://github.com/fwdekker/fo4vr-modlist/issues/12))
 * Fixed a small typo in the [vrperfkit](https://github.com/fholger/vrperfkit) installation instructions.
 
 
