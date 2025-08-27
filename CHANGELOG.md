@@ -1,16 +1,21 @@
 # Changelog
-## [Unreleased] -- Unreleased
-(TODO: Intro)
+## [1.3.1] -- 2025-08-27
+This version fixes a visual bug that some users encountered with the night sky.
 
 ### How to upgrade
-(TODO)
+Follow these steps to update your mod list from v1.3.0 to v1.3.1 of my guide.
+
+* Install the file "Dark Galaxy Milky Way 4k Skystars 4k" from the mod [Fallout 4 HD Overhaul 2k](https://www.nexusmods.com/fallout4/mods/65720).
 
 ### Added
 * Mentioned the Steam library setup tool as a means to achieve a different Steam library configuration. ([#26](https://github.com/FWDekker/fo4vr-modlist/pull/26))
-* Added [Daan Vissers](https://github.com/daanvissers) to the acknowledgements.
+* Added [Daan Vissers](https://github.com/daanvissers), [Jacobi](https://steamcommunity.com/profiles/76561199048585896), and [dry3ss](https://www.reddit.com/user/dry3ss/) to the acknowledgements.
 
 ### Changed
 * Clarified some minor unclarities. ([https://github.com/FWDekker/fo4vr-modlist/pull/26](#26))
+
+### Fixed
+* Under some circumstances, the night skybox would have a visible seam and missing textures in the lower band. This issue can be resolved by installing the optional file "Dark Galaxy Milky Way 4k Skystars 4k" from the mod [Fallout 4 HD Overhaul 2k](https://www.nexusmods.com/fallout4/mods/65720). Installing this file is now part of the guide. Thank you to [Jacobi](https://steamcommunity.com/profiles/76561199048585896) and [dry3ss](https://www.reddit.com/user/dry3ss/) for reporting the issue!
 
 
 ## [1.3.0] -- 2024-07-28

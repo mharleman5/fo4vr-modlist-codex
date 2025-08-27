@@ -1,5 +1,5 @@
 # Florine's Fallout 4 VR
-v1.3.0 • [changelog](CHANGELOG.md) • [how to update](CHANGELOG.md)
+v1.3.1 • [changelog](CHANGELOG.md) • [how to update](CHANGELOG.md)
 
 > A thorough, beginner-friendly guide for a stable, vanilla-ish experience.
 
@@ -682,7 +682,7 @@ Personally, I eventually disabled these because I preferred higher graphical qua
    FO4VR's default textures are too ugly for VR, and the high-resolution texture pack is (supposedly) too
    VRAM-consuming.
    This texture pack provides a nice balance.
-   * **Variant:** All files in section "Main files"
+   * **Variant:** All files in section "Main files" _and_ "Dark Galaxy Milky Way 4k Skystars 4k"
    * **Note:** You can safely download files for which you do not own the required DLC
 4. **[Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714)** (v1.9) <sub>![recommended]</sub>  
    Adds even nicer textures, but may have some performance impact.
@@ -1254,6 +1254,8 @@ In chronological order of contribution:
 * Thanks to [Daan Vissers](https://github.com/daanvissers) for [mentioning the Steam library setup tool, clarifying
   unclarities](https://github.com/FWDekker/fo4vr-modlist/pull/26) and [several other
   suggestions](https://github.com/FWDekker/fo4vr-modlist/issues/25)!
+* Thanks to [Jacobi](https://steamcommunity.com/profiles/76561199048585896) for [reporting an issue with the night skybox](https://steamcommunity.com/sharedfiles/filedetails/?id=3210296275&tscn=1753820200)!
+* Thanks to [dry3ss](https://www.reddit.com/user/dry3ss/) for [reporting the same issue with the night skybox](https://redd.it/1dp3ij2/), and sorry it took me more than a year to notice!
 
 If I should add, remove, or change anything here, just
 [open an issue](https://github.com/FWDekker/fo4vr-modlist/issues/new) or [email me](https://fwdekker.com/about/)!
