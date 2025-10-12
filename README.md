@@ -606,7 +606,7 @@ These mods fix bugs, either in the base game or in other mods.
    If you wear power armour and fall from a height, you will create a shock wave that damages NPCs around you.
    Friendly NPCs damaged this way may become hostile, even if you do so by accident.
    This mod ensures that you do not accidentally turn friendly NPCs hostile this way.
-9. **[Bird Fix](https://www.nexusmods.com/fallout4/mods/45429)** (v1) <sub>![required]</sub>  
+9. **[Bird Fix](https://www.nexusmods.com/fallout4/mods/45429?tab=files&file_id=204999)** (v1) <sub>![required]</sub>  
    Fixes a bug where birds are _always_ flying into buildings for some reason.
    * **Note:** You can ignore the listed dependencies.
 10. **[Radio Reverb Fix](https://www.nexusmods.com/fallout4/mods/16563)** (v1) <sub>![optional]</sub>  
@@ -1150,6 +1150,7 @@ In chronological order of contribution:
 * Thanks to [Daan Vissers](https://github.com/daanvissers) for [mentioning the Steam library setup tool, clarifying unclarities](https://github.com/fwdekker/fo4vr-modlist/pull/26) and [several other suggestions](https://github.com/fwdekker/fo4vr-modlist/issues/25)!
 * Thanks to [Jacobi](https://steamcommunity.com/profiles/76561199048585896) for [reporting an issue with the night skybox](https://steamcommunity.com/sharedfiles/filedetails/?id=3210296275&tscn=1753820200)!
 * Thanks to [dry3ss](https://www.reddit.com/user/dry3ss/) for [reporting the same issue with the night skybox](https://redd.it/1dp3ij2/), and sorry it took me more than a year to notice!
+* Thanks to [Telmo Marques](https://github.com/telmomarques) for [reporting a confusing link](https://github.com/fwdekker/fo4vr-modlist/issues/30)!
 
 If I should add, remove, or change anything here, just [open an issue](https://github.com/fwdekker/fo4vr-modlist/issues/new) or [email me](https://fwdekker.com/about/)!
 
