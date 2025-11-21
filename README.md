@@ -1,7 +1,7 @@
 # Michael Harleman–Guardian of the Web AI Codex–Fork of Florine's Fallout 4 VR Modding Guide
 v1.3.1 • [changelog](CHANGELOG.md) • [how to update](CHANGELOG.md)
 
-> A thorough, beginner-friendly guide for a stable, vanilla-ish experience.
+> A thorough, beginner-friendly guide for a stable, vanilla-ish experience. “This fork exists to preserve and extend Florine’s work as part of the Web AI Codex. All credit belongs to Florine and his compatriots.” - Microsoft Copilot
 
 **Motivation**  
 Fallout 4 VR sucks quite badly for modern VR standards.
