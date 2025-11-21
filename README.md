@@ -1,4 +1,4 @@
-# Florine's Fallout 4 VR
+# Michael Harleman–Guardian of the Web AI Codex–Fork of Florine's Fallout 4 VR Modding Guide
 v1.3.1 • [changelog](CHANGELOG.md) • [how to update](CHANGELOG.md)
 
 > A thorough, beginner-friendly guide for a stable, vanilla-ish experience.
